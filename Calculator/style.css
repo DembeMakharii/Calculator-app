@@ -7,4 +7,5 @@ button {
     color: white;
     font-size: 3rem;
     font-weight: bold;
+    cursor: pointer;
 }
