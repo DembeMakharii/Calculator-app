@@ -6,4 +6,5 @@ button {
     background-color: hsl(0, 0%, 30%);
     color: white;
     font-size: 3rem;
+    font-weight: bold;
 }
