@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    
+}
+
 #calculator{
     font-family: Arial, sans-serif;
     background-color: hsl(0, 0%, 15%);
@@ -15,7 +20,7 @@
     border: none;
     background-color: hsl(0, 0%, 20%);
     color: white;
-    
+
 
 
 }
