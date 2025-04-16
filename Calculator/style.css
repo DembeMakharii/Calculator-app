@@ -1,4 +1,9 @@
- keys {
+#calculator{
+    font-family: Arial, sans-serif;
+    
+}
+
+#keys {
 display: grid;
 grid-template-columns: repeat(4, 1fr);
 gap: 10px;
